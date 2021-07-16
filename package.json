@@ -74,7 +74,7 @@
     "fs-extra": "^10.0.0",
     "highcharts": "^9.0.1",
     "highcharts-export-server": "^2.1.0",
-    "jest": "^26.6.3",
+    "jest": "^27.0.6",
     "rollup": "^2.44.0",
     "rollup-plugin-node-builtins": "2.1.2",
     "rollup-plugin-node-globals": "1.4.0",
